@@ -31,7 +31,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
   - [Docs](https://docs.substrate.io/) - Developer documentation.
   - [Tutorials](https://docs.substrate.io/tutorials) - Guided exercises to get you started.
   - [How-to guides](https://docs.substrate.io/how-to-guides) - Workflows outlined to achieve a
-    specific goal.
+    specific goal
   - [Reference Docs](https://docs.substrate.io/rustdocs) - Versioned API documentation.
 - [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - Developer Hub repositories.
 - [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - Projects and teams building with
